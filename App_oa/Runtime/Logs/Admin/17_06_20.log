@@ -1,0 +1,108 @@
+[ 2017-06-20T00:00:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+
+[ 2017-06-20T00:00:33+08:00 ] 127.0.0.1 /index.php/Admin/Dept/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 模板禁用PHP代码
+
+[ 2017-06-20T00:40:29+08:00 ] 127.0.0.1 /index.php/Admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-06-20T00:40:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-06-20T00:40:31+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-06-20T00:40:46+08:00 ] 127.0.0.1 /index.php/Admin/Dept/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `oa_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('人事部','0','2','你好')
+
+[ 2017-06-20T00:41:49+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+
+[ 2017-06-20T00:42:01+08:00 ] 127.0.0.1 /index.php/Admin/Dept/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `oa_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('合作不','0','1','爱的')
+
+[ 2017-06-20T00:43:11+08:00 ] 127.0.0.1 /index.php/Admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-06-20T00:43:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-06-20T00:43:13+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-06-20T00:43:28+08:00 ] 127.0.0.1 /index.php/Admin/Dept/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `oa_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('人人','0','2','阿萨德')
+
+[ 2017-06-20T00:46:17+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-06-20T00:46:25+08:00 ] 127.0.0.1 /index.php/Admin/Dept/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `oa_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('方法','0','33','淡淡的')
+
+[ 2017-06-20T00:47:59+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-06-20T00:48:06+08:00 ] 127.0.0.1 /index.php/Admin/Dept/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `oa_dept` (`name`,`pid`,`sort`,`remark`) VALUES ('s扫扫地','0','2','大扫除')
+
+[ 2017-06-20T00:50:02+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+ERR: 非法操作:showList
+
+[ 2017-06-20T00:50:03+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-06-20T00:50:12+08:00 ] 127.0.0.1 /index.php/Admin/Dept/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+ERR: 模板禁用PHP代码
+

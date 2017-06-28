@@ -1,0 +1,13 @@
+[ 2017-06-19T23:26:49+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+NOTIC: [2] session_start() [<a href='function.session-start'>function.session-start</a>]: open(/tmp\sess_68gnmgmscu67r593cpgbfqerq7, O_RDWR) failed: No such file or directory (2) D:\itcast\ThinkPHP\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at D:\itcast\ThinkPHP\App_oa\Common\Conf\config.php:2) D:\itcast\ThinkPHP\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000748s ]
+

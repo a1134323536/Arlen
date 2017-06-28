@@ -1,0 +1,14 @@
+<?php
+
+#ÉùÃ÷ÃüÃû¿Õ¼ä
+namespace Home\Controller;
+
+use Think\Controller;
+
+class TestController extends Controller
+{
+	public function test1()
+	{
+		echo 'hello kitty111111.';
+	}
+}

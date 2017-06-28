@@ -1,0 +1,357 @@
+[ 2017-06-15T08:45:11+08:00 ] 127.0.0.1 /index.php/Admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+ERR: 无法加载控制器:Login
+
+[ 2017-06-15T08:45:22+08:00 ] 127.0.0.1 /index.php/Admin/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载控制器:Login
+
+[ 2017-06-15T08:45:51+08:00 ] 127.0.0.1 /index.php/Admin/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+ERR: 无法加载控制器:Login
+
+[ 2017-06-15T08:46:06+08:00 ] 127.0.0.1 /index.php/Admin/Test/test5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001603s ]
+
+[ 2017-06-15T08:46:11+08:00 ] 127.0.0.1 /index.php/admin/Test/test20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2017-06-15T08:49:05+08:00 ] 127.0.0.1 /index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-06-15T08:49:05+08:00 ] 127.0.0.1 /index.php/Admin/Public/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+ERR: 非法操作:js
+
+[ 2017-06-15T08:49:05+08:00 ] 127.0.0.1 /index.php/Admin/Public/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 非法操作:js
+
+[ 2017-06-15T08:49:23+08:00 ] 127.0.0.1 /index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-06-15T08:49:23+08:00 ] 127.0.0.1 /index.php/Admin/Public/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 非法操作:js
+
+[ 2017-06-15T08:49:23+08:00 ] 127.0.0.1 /index.php/Admin/Public/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 非法操作:js
+
+[ 2017-06-15T08:49:23+08:00 ] 127.0.0.1 /index.php/Admin/Public/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 非法操作:js
+
+[ 2017-06-15T08:49:26+08:00 ] 127.0.0.1 /index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-06-15T08:49:26+08:00 ] 127.0.0.1 /index.php/Admin/Public/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+ERR: 非法操作:js
+
+[ 2017-06-15T08:49:26+08:00 ] 127.0.0.1 /index.php/Admin/Public/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 非法操作:js
+
+[ 2017-06-15T08:49:26+08:00 ] 127.0.0.1 /index.php/Admin/Public/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+ERR: 非法操作:js
+
+[ 2017-06-15T08:49:27+08:00 ] 127.0.0.1 /index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-06-15T08:49:27+08:00 ] 127.0.0.1 /index.php/Admin/Public/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 非法操作:js
+
+[ 2017-06-15T08:49:27+08:00 ] 127.0.0.1 /index.php/Admin/Public/js/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+ERR: 非法操作:js
+
+[ 2017-06-15T09:14:08+08:00 ] 127.0.0.1 /index.php/Admin/test/test26
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-06-15T09:45:00+08:00 ] 127.0.0.1 /index.php/Admin/test/test27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+ERR: 非法操作:test27
+
+[ 2017-06-15T09:45:19+08:00 ] 127.0.0.1 /index.php/Admin/test/test27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-06-15T09:59:33+08:00 ] 127.0.0.1 /index.php/Admin/test/test28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-06-15T10:00:03+08:00 ] 127.0.0.1 /index.php/Admin/test/test28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-06-15T10:00:43+08:00 ] 127.0.0.1 /index.php/Admin/test/test28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+ERR: 1364:Field 'dept_remark' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `oa_dept` (`dept_name`,`dept_pid`,`dept_sort`) VALUES ('搭建部','0','1')
+
+[ 2017-06-15T10:01:18+08:00 ] 127.0.0.1 /index.php/Admin/test/test28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+ERR: 1364:Field 'status' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `oa_dept` (`dept_name`,`dept_pid`,`dept_sort`,`dept_remark`) VALUES ('搭建部','0','1','nihaoa a a ')
+
+[ 2017-06-15T10:03:37+08:00 ] 127.0.0.1 /index.php/Admin/test/test28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 1364:Field 'status' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `oa_dept` (`dept_name`,`dept_pid`,`dept_sort`,`dept_remark`) VALUES ('搭建部','0','1','nihaoa a a ')
+
+[ 2017-06-15T10:05:29+08:00 ] 127.0.0.1 /index.php/Admin/test/test28
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-06-15T11:02:40+08:00 ] 127.0.0.1 /index.php/Admin/test/test29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2017-06-15T11:02:52+08:00 ] 127.0.0.1 /index.php/Admin/test/test29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-06-15T11:06:20+08:00 ] 127.0.0.1 /index.php/Admin/test/test29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-06-15T11:06:31+08:00 ] 127.0.0.1 /index.php/Admin/test/test29
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-06-15T11:10:21+08:00 ] 127.0.0.1 /index.php/Admin/test/test30
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+ERR: 1146:Table 'myoa.oa_dpet' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `oa_dpet`
+
+[ 2017-06-15T11:10:39+08:00 ] 127.0.0.1 /index.php/Admin/test/test30
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-06-15T15:53:58+08:00 ] 127.0.0.1 /index.php/Admin/test/test31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-06-15T15:54:19+08:00 ] 127.0.0.1 /index.php/Admin/test/test31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-06-15T15:54:22+08:00 ] 127.0.0.1 /index.php/Admin/test/test31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-06-15T15:54:44+08:00 ] 127.0.0.1 /index.php/Admin/test/test31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-06-15T15:55:26+08:00 ] 127.0.0.1 /index.php/Admin/test/test31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+ERR: 1054:Unknown column 'id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `oa_dept` WHERE ( id=7 ) 
+
+[ 2017-06-15T15:55:53+08:00 ] 127.0.0.1 /index.php/Admin/test/test31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-06-15T15:56:56+08:00 ] 127.0.0.1 /index.php/Admin/test/test31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-06-15T15:57:30+08:00 ] 127.0.0.1 /index.php/Admin/test/test31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-06-15T16:01:14+08:00 ] 127.0.0.1 /index.php/Admin/test/test31
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-06-15T16:01:16+08:00 ] 127.0.0.1 /index.php/Admin/test/test32
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+ERR: 非法操作:test32
+
+[ 2017-06-15T16:01:43+08:00 ] 127.0.0.1 /index.php/Admin/test/test32
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+
+[ 2017-06-15T16:02:17+08:00 ] 127.0.0.1 /index.php/Admin/test/test32
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+
+[ 2017-06-15T16:02:36+08:00 ] 127.0.0.1 /index.php/Admin/test/test32
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-06-15T16:08:29+08:00 ] 127.0.0.1 /index.php/Admin/test/test32
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2017-06-15T16:08:33+08:00 ] 127.0.0.1 /index.php/Admin/test/test32
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-06-15T16:08:41+08:00 ] 127.0.0.1 /index.php/Admin/test/test33
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-06-15T16:10:05+08:00 ] 127.0.0.1 /index.php/Admin/test/test33
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2017-06-15T16:18:09+08:00 ] 127.0.0.1 /index.php/Admin/test/test34
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+ERR: 非法操作:test34
+
+[ 2017-06-15T16:18:23+08:00 ] 127.0.0.1 /index.php/Admin/test/test34
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 1146:Table 'myoa.oa_dpet' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `oa_dpet`
+
+[ 2017-06-15T16:18:36+08:00 ] 127.0.0.1 /index.php/Admin/test/test34
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2017-06-15T16:27:25+08:00 ] 127.0.0.1 /index.php/Admin/test/test35
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : SELECT `name`,count(*) as count FROM `oa_dept` GROUP BY name 
+
+[ 2017-06-15T16:27:44+08:00 ] 127.0.0.1 /index.php/Admin/test/test35
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-06-15T17:12:55+08:00 ] 127.0.0.1 /index.php/Admin/test/test35
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-06-15T17:13:13+08:00 ] 127.0.0.1 /index.php/Admin/test/test35
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : SELECT `name`,count(*) as count FROM `oa_dept` GROUP BY name 
+
+[ 2017-06-15T17:13:45+08:00 ] 127.0.0.1 /index.php/Admin/test/test35
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-06-15T17:28:01+08:00 ] 127.0.0.1 /index.php/Admin/test/test36
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-06-15T17:30:04+08:00 ] 127.0.0.1 /index.php/Admin/test/test37
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-06-15T17:30:32+08:00 ] 127.0.0.1 /index.php/Admin/test/test37
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+
+[ 2017-06-15T17:35:38+08:00 ] 127.0.0.1 /index.php/Admin/test/test38
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-06-15T17:36:11+08:00 ] 127.0.0.1 /index.php/Admin/test/test39
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-06-15T17:36:55+08:00 ] 127.0.0.1 /index.php/Admin/test/test40
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
